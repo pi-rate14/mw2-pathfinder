@@ -1,0 +1,348 @@
+TAQ-M,Marksman Rifle,6.5mm High Velocity,Ammunition,6
+TAQ-M,Marksman Rifle,6.5mm Hollowpoint,Ammunition,13
+TAQ-M,Marksman Rifle,6.5mm Frangible,Ammunition,17
+TAQ-M,Marksman Rifle,6.5mm Armor Piercing,Ammunition,19
+TAQ-M,Marksman Rifle,6.5mm Overpressured +P,Ammunition,21
+TAQ-M,Marksman Rifle,6.5mm Incendiary,Ammunition,24
+M4,Assault Rifle,5.56 Armor Piercing,Ammunition,9
+TAQ-56,Assault Rifle,5.56 Overpressured +P,Ammunition,2
+FTAC Recon,Battle Rifle,.458 Frangible,Ammunition,4
+FTAC Recon,Battle Rifle,.458 Overpressured +P,Ammunition,9
+FTAC Recon,Battle Rifle,.458 High Velocity,Ammunition,13
+FTAC Recon,Battle Rifle,.458 Hollowpoint,Ammunition,17
+FTAC Recon,Battle Rifle,.458 Armor Piercing,Ammunition,21
+FSS Hurricane,Submachine Gun,5.7x28mm Hollow Point,Ammunition,11
+RPK,Light Machine Gun,7.62 Armor Piercing,Ammunition,5
+RPK,Light Machine Gun,7.62 Incendiary,Ammunition,13
+STB 556,Assault Rifle,5.56 High Velocity,Ammunition,7
+Kastov 762,Assault Rifle,7.62 Overpressured +P,Ammunition,10
+Kastov 762,Assault Rifle,7.62 Hollowpoint,Ammunition,5
+Kastov 762,Assault Rifle,7.62 High Velocity,Ammunition,13
+Kastov 762,Assault Rifle,7.62 Frangible,Ammunition,18
+Kastov 545,Assault Rifle,5.45 Armor Piercing,Ammunition,4
+Kastov 545,Assault Rifle,5.45 Overpressured +P,Ammunition,11
+Kastov 545,Assault Rifle,5.45 High Velocity,Ammunition,15
+Kastov-74u,Assault Rifle,5.45 High Velocity,Ammunition,15
+Kastov-74u,Assault Rifle,5.45 Frangible,Ammunition,20
+Minibak,Submachine Gun,9mm Hollowpoint,Ammunition,3
+Minibak,Submachine Gun,9mm Frangible,Ammunition,8
+Minibak,Submachine Gun,9mm Armor Piercing,Ammunition,11
+Minibak,Submachine Gun,9mm Overpressured +P,Ammunition,14
+Lachmann-556,Assault Rifle,5.56 Frangible,Ammunition,8
+Lockwood Mk2,Marksman Rifle,.45 GVT Frangible,Ammunition,4
+Lockwood Mk2,Marksman Rifle,.45 GVT Hollowpoint,Ammunition,24
+Lockwood Mk2,Marksman Rifle,.45 GVT Armor Piercing,Ammunition,21
+Lockwood Mk2,Marksman Rifle,.45 GVT Overpressured +P,Ammunition,18
+Lockwood Mk2,Marksman Rifle,.45 GVT High Velocity,Ammunition,10
+Lockwood Mk2,Marksman Rifle,.45 GVT Incendiary,Ammunition,28
+Basilisk,Handgun,.500 Frangible,Ammunition,6
+PDSW 528,Submachine Gun,5.7x28mm Armor Piercing,Ammunition,8
+MX9,Submachine Gun,9mm Sub AP,Ammunition,16
+TAQ-M,Marksman Rifle,15.5” Theta-X13,Barrel,8
+TAQ-M,Marksman Rifle,LR:7 20.5” Barrel,Barrel,16
+TAQ-56,Assault Rifle,12” Tacshort Barrel,Barrel,3
+M4,Assault Rifle,11.5” T-H4 Barrel,Barrel,4
+M4,Assault Rifle,Tempus Trench Pro,Barrel,10
+556 Icarus,Light Machine Gun,FTAC SB,Barrel,12
+FTAC Recon,Battle Rifle,419MM EXF Barrel,Barrel,6
+TAQ-56,Assault Rifle,14.5” Tundra Pro Barrel,Barrel,12
+TAQ-V,Battle Rifle,Lance-50 12” Barrel,Barrel,11
+TAQ-V,Battle Rifle,18” Precision-6 Barrel,Barrel,18
+M4,Assault Rifle,Hightower 20” Barrel,Barrel,15
+556 Icarus,Light Machine Gun,FTAC Coldforge 16” Barrel,Barrel,4
+M16,Assault Rifle,14” Carbine Shroud,Barrel,3
+M16,Assault Rifle,11.5” Carbine Shroud,Barrel,9
+FTAC Recon,Battle Rifle,7.5” Tempus Firebrand,Barrel,18
+FTAC Recon,Battle Rifle,Bull Rider 16.5”,Barrel,22
+FSS Hurricane,Submachine Gun,FSS Cannonade 16”,Barrel,7
+FSS Hurricane,Submachine Gun,FSS-X7 Barrel,Barrel,10
+RPK,Light Machine Gun,TAC 597 Barrel,Barrel,3
+RPK,Light Machine Gun,KAS-10 584mm Barrel,Barrel,16
+Kastov 762,Assault Rifle,KAS-7 406mm,Barrel,17
+Kastov 545,Assault Rifle,IG-K30 406mm,Barrel,5
+Kastov 545,Assault Rifle,342mm SAKIN KL,Barrel,14
+Kastov-74u,Assault Rifle,SA Ultra III,Barrel,4
+Kastov-74u,Assault Rifle,BR209 Barrel,Barrel,11
+Kastov-74u,Assault Rifle,ShortTAC 330mm,Barrel,16
+Vaznev-9K,Submachine Gun,SA Response III,Barrel,7
+Vaznev-9K,Submachine Gun,KAS-1 381mm,Barrel,14
+Minibak,Submachine Gun,BAK-9 279mm Barrel,Barrel,5
+Lachmann-762,Battle Rifle,15.9” Lachmann RAPP Barrel,Barrel,3
+Lachmann-762,Battle Rifle,Meer-56 11” Factory,Barrel,7
+Lachmann-556,Assault Rifle,LM Aurora 90 Barrel,Barrel,5
+Lachmann-556,Assault Rifle,Lach-12 Barrel,Barrel,17
+SP-R 208,Marksman Rifle,22.5” Elevate-11,Barrel,4
+RAPP H,Light Machine Gun,10.6” Lachstrike Barrel,Barrel,4
+RAPP H,Light Machine Gun,Romeo FT 16” Barrel,Barrel,16
+LM-S,Marksman Rifle,Lachmann Nova,Barrel,12
+Bryson 800,Shotgun,18” Demo Firewall,Barrel,2
+Kastov 762,Assault Rifle,Kastovia 343,Barrel,3
+STB 556,Assault Rifle,18” Bruen Guerilla,Barrel,3
+STB 556,Assault Rifle,24.4” Bruen S-620,Barrel,14
+STB 556,Assault Rifle,508MM Rear Guard,Barrel,11
+VEL 46,Submachine Gun,Lachmann Dart 165mm,Barrel,4
+VEL 46,Submachine Gun,Schlager RV-B,Barrel,27
+VEL 46,Submachine Gun,Tango 228 Barrel,Barrel,22
+VEL 46,Submachine Gun,Schlager L203 Barrel,Barrel,20
+VEL 46,Submachine Gun,Lach-DX 203mm,Barrel,15
+VEL 46,Submachine Gun,Lach-165 Zulu,Barrel,9
+VEL 46,Submachine Gun,LM Series-7,Barrel,11
+PDSW 528,Submachine Gun,9.5” Duke-30,Barrel,2
+Basilisk,Handgun,Bryson Snubby,Barrel,7
+PDSW 528,Submachine Gun,FTAC Series IX 14.5”,Barrel,9
+Lachmann-762,Battle Rifle,Corvus PEQ Beam-5,Laser,8
+TAQ-56,Assault Rifle,Canted Vibro-Dot 7,Laser,10
+TAQ-V,Battle Rifle,FTAC Grimline Laser,Laser,5
+M4,Assault Rifle,1MW Laser Box,Laser,12
+Kastov 762,Assault Rifle,STOVL DR Laser Box,Laser,9
+SP-R 208,Marksman Rifle,SZ 1MW PEQ,Laser,2
+Signal 50,Sniper Rifle,Schlager PEQ Box IV,Laser,3
+MCPR-300,Sniper Rifle,Corio LAZ-44 V3,Laser,3
+EBR-14,Marksman Rifle,FSS OLE-V Laser,Laser,10
+SAKIN MG38,Light Machine Gun,Luminate-44,Laser,8
+RAAL MG,Light Machine Gun,DXS Flash 90,Laser,4
+STB 556,Assault Rifle,VLK LZR 7MW,Laser,5
+PDSW 528,Submachine Gun,Hipshot L20,Laser,4
+VEL 46,Submachine Gun,EXF Solarflare,Laser,2
+Kastov-74u,Assault Rifle,20 Round Mag,Magazine,7
+Kastov 762,Assault Rifle,20 Round Mag,Magazine,20
+TAQ-M,Marksman Rifle,20 Round Mag,Magazine,23
+Lachmann-556,Assault Rifle,40 Round Mag,Magazine,13
+TAQ-56,Assault Rifle,40 Round Mag,Magazine,7
+Kastov 762,Assault Rifle,40 Round Mag,Magazine,14
+TAQ-56,Assault Rifle,60 Round Mag,Magazine,17
+Kastov 545,Assault Rifle,60 Round Mag,Magazine,12
+Lachmann-762,Battle Rifle,30 Round Mag,Magazine,9
+TAQ-V,Battle Rifle,30 Round Mag,Magazine,15
+Lachmann-762,Battle Rifle,50 Round Drum,Magazine,18
+TAQ-V,Battle Rifle,50 Round Drum,Magazine,20
+M4,Assault Rifle,45 Round Mag,Magazine,5
+Kastov-74u,Assault Rifle,45 Round Mag,Magazine,14
+556 Icarus,Light Machine Gun,100 Round Box Mag,Magazine,6
+M16,Assault Rifle,15 Round Magazine,Magazine,7
+FTAC Recon,Battle Rifle,15 Round Magazine,Magazine,20
+FTAC Recon,Battle Rifle,5 Round Mag,Magazine,3
+RPK,Light Machine Gun,100 Round Drum,Magazine,10
+Lachmann-762,Battle Rifle,10 Round Mag,Magazine,15
+RAPP H,Light Machine Gun,100 Round Mag,Magazine,7
+STB 556,Assault Rifle,Single Tap Mod,Magazine,17
+STB 556,Assault Rifle,42 Round Mag,Magazine,19
+MX9,Submachine Gun,32 Round Mag,Magazine,2
+TAQ-M,Marksman Rifle,TZL-90 V3,Muzzle,15
+TAQ-M,Marksman Rifle,ZLR Talon 5,Muzzle,22
+M4,Assault Rifle,Echoline GS-X,Muzzle,3
+M16,Assault Rifle,C400 Door Knocker,Muzzle,5
+TAQ-56,Assault Rifle,Corvus Slash Gen. 2,Muzzle,5
+TAQ-56,Assault Rifle,Echoless-80,Muzzle,14
+TAQ-56,Assault Rifle,RF Crown 50,Muzzle,16
+TAQ-V,Battle Rifle,GL Clear Breach,Muzzle,12
+TAQ-V,Battle Rifle,Tempus GH50,Muzzle,14
+556 Icarus,Light Machine Gun,FTAC Castle Comp,Muzzle,10
+FTAC Recon,Battle Rifle,FTAC Dreadnought,Muzzle,5
+FTAC Recon,Battle Rifle,Shred CP90,Muzzle,11
+FTAC Recon,Battle Rifle,Demon Helix T7,Muzzle,19
+FSS Hurricane,Submachine Gun,XTen Razor Comp,Muzzle,5
+FSS Hurricane,Submachine Gun,XRK Knockout Breach,Muzzle,13
+RPK,Light Machine Gun,Lockshot KT85,Muzzle,9
+Kastov 762,Assault Rifle,Kastovia DX90,Muzzle,2
+Kastov 762,Assault Rifle,TA Hul-Breach KL,Muzzle,12
+Kastov 545,Assault Rifle,XTen Havoc 90,Muzzle,8
+Kastov 545,Assault Rifle,VLK Koloss Flash Hider,Muzzle,16
+Kastov-74u,Assault Rifle,Gauge-9 Mono,Muzzle,17
+Vaznev-9K,Submachine Gun,AVR-T90 Comp,Muzzle,4
+Minibak,Submachine Gun,EXF Huntress-90,Muzzle,7
+Lachmann-762,Battle Rifle,Polarfire-S,Muzzle,5
+Lachmann-556,Assault Rifle,Komodo Heavy,Muzzle,18
+Lachmann-556,Assault Rifle,Broadhead-3DP,Muzzle,6
+SP-R 208,Marksman Rifle,ZULU-60,Muzzle,3
+STB 556,Assault Rifle,SAKIN Tread-40,Muzzle,4
+STB 556,Assault Rifle,Harbinger D20,Muzzle,18
+STB 556,Assault Rifle,Dark KX30,Muzzle,15
+SA-B 50,Marksman Rifle,TY-LR8,Muzzle,17
+LM-S,Marksman Rifle,Cronen Dark KX30,Muzzle,9
+Bryson 800,Shotgun,Bryson Improved Choke,Muzzle,4
+EBR-14,Marksman Rifle,Eight-Point Flash Hider,Muzzle,4
+SO-14,Battle Rifle,Husher-65 Silencer,Muzzle,16
+SO-14,Battle Rifle,Bore-490,Muzzle,14
+Lockwood Mk2,Marksman Rifle,Talon Sixteen,Muzzle,2
+Basilisk,Handgun,FSS VMW Flash Hider,Muzzle,4
+PDSW 528,Submachine Gun,Spiral V3.5 Flash Hider,Muzzle,7
+MX9,Submachine Gun,Forge DX90-F,Muzzle,15
+TAQ-M,Marksman Rifle,XTEN Angel-40,Optic,11
+M4,Assault Rifle,SZ Lonewolf Optic,Optic,2
+TAQ-56,Assault Rifle,Cronen Zero-P Optic,Optic,4
+TAQ-V,Battle Rifle,BPZ40 Hybrid,Optic,8
+556 Icarus,Light Machine Gun,Forge Tac Delta 4,Optic,9
+M16,Assault Rifle,SZ SRO-7,Optic,11
+Kastov 762,Assault Rifle,VLK 4.0 Optic,Optic,4
+Kastov-74u,Assault Rifle,DF105 Reflex Sight,Optic,10
+Lachmann-762,Battle Rifle,Hybrid Firepoint,Optic,14
+Lachmann-556,Assault Rifle,Thermo-Optic X9,Optic,14
+Lachmann Sub,Submachine Gun,SZ Mini,Optic,11
+RAPP H,Light Machine Gun,Schlager 4X,Optic,12
+SO-14,Battle Rifle,SZ Minitac-40,Optic,5
+VEL 46,Submachine Gun,Corvus SOL-76,Optic,5
+MX9,Submachine Gun,Corvus Downrange-00,Optic,8
+SO-14,Battle Rifle,SZ Bullseye Optic,Optic,20
+SAKIN MG38,Light Machine Gun,DR582 Hybrid Sight,Optic,5
+RAAL MG,Light Machine Gun,Angel-40 4.8x,Optic,6
+HCR 56,Light Machine Gun,Teplo Clear Shot,Optic,9
+SO-14,Battle Rifle,FTAC Charlie7,Optic,18
+SO-14,Battle Rifle,ARES Clear Shot,Optic,12
+FSS Hurricane,Submachine Gun,Cronen Mini Red Dot,Optic,3
+Bryson 890,Shotgun,XRK On-Point Optic,Optic,5
+Kastov 545,Assault Rifle,Kazan-Holo,Optic,7
+Minibak,Submachine Gun,Monocle CT90,Optic,12
+VEL 46,Submachine Gun,SZ Vortex-90,Optic,28
+TAQ-M,Marksman Rifle,SZ Heatsource 800,Optic,25
+Expedite 12,Shotgun,Cronen Mini Pro,Optic,7
+.50 GS,Handgun,Corio RE-X Pro,Optic,4
+X12,Handgun,SZ Sigma-IV Optic,Optic,4
+PDSW 528,Submachine Gun,SZ Holotherm,Optic,12
+STB 556,Assault Rifle,Schlager Night View,Optic,6
+TAQ-M,Marksman Rifle,DXS Coriolis V4,Optic,18
+RPK,Light Machine Gun,VX350 Thermal Optic,Optic,7
+Lachmann-762,Battle Rifle,HMW-20 Optic,Optic,2
+SP-R 208,Marksman Rifle,SP-X 80 6.6x,Optic,5
+LM-S,Marksman Rifle,Lachmann Impact 9,Optic,5
+Bryson 800,Shotgun,Corio CQC Scope,Optic,5
+Lockwood Mk2,Marksman Rifle,Luca Bandera Scope,Optic,7
+FTAC Recon,Battle Rifle,Drexsom Prime-90,Optic,12
+SA-B 50,Marksman Rifle,Teplo-OP3 Scope,Optic,9
+M16,Assault Rifle,D15 Grip,Rear Grip,15
+M4,Assault Rifle,SAKIN ZX Grip,Rear Grip,8
+M4,Assault Rifle,XTEN Grip,Rear Grip,16
+FSS Hurricane,Submachine Gun,Phantom Grip,Rear Grip,12
+TAQ-M,Marksman Rifle,TV Ergo Grip,Rear Grip,5
+TAQ-M,Marksman Rifle,XRK Response Grip,Rear Grip,10
+FTAC Recon,Battle Rifle,Support CP90 Grip,Rear Grip,15
+TAQ-56,Assault Rifle,FSS Combat Grip,Rear Grip,9
+TAQ-V,Battle Rifle,Demo Cleanshot Grip,Rear Grip,13
+RPK,Light Machine Gun,Demo-X2 Grip,Rear Grip,18
+Kastov 762,Assault Rifle,Ivanov ST-70 Grip,Rear Grip,8
+Vaznev-9K,Submachine Gun,True-TAC Grip,Rear Grip,10
+Lachmann-762,Battle Rifle,S-Grip Zero,Rear Grip,16
+PDSW 528,Submachine Gun,Bruen G305 Grip Wrap,Rear Grip,3
+STB 556,Assault Rifle,STIP-40 Grip,Rear Grip,10
+MX9,Submachine Gun,Bruen Q900 Grip,Rear Grip,13
+Lachmann-762,Battle Rifle,Lachmann TCG-10,Rear Grip,11
+FTAC Recon,Battle Rifle,Ravage-8,Stock,8
+M4,Assault Rifle,Demo Fade Pro Stock,Stock,19
+M4,Assault Rifle,Tempus P80 Strike Stock,Stock,11
+TAQ-M,Marksman Rifle,TV Ballast Stock,Stock,7
+TAQ-M,Marksman Rifle,TV XLINE Pro,Stock,20
+M4,Assault Rifle,Corio Precio Factory,Stock,7
+556 Icarus,Light Machine Gun,Demo Precision Elite Factory,Stock,8
+TAQ-56,Assault Rifle,TV Cardinal Stock,Stock,8
+TAQ-56,Assault Rifle,TV LPX-434,Stock,18
+TAQ-V,Battle Rifle,Tactique Brute Stock,Stock,7
+M4,Assault Rifle,Demo D50 Buffer Tube,Stock,14
+FSS Hurricane,Submachine Gun,Demo Quicksilver Collapsed,Stock,9
+FSS Hurricane,Submachine Gun,Demo Quicksilver Stock,Stock,14
+RPK,Light Machine Gun,Heavy Support Stock,Stock,12
+RPK,Light Machine Gun,ProLite TL3 Stock,Stock,17
+Kastov 762,Assault Rifle,KSTV-RPK Factory,Stock,6
+Kastov 762,Assault Rifle,Ivanov Wood Stock,Stock,19
+Kastov 545,Assault Rifle,Kastov-Rama,Stock,10
+Kastov 545,Assault Rifle,FT TAC-Elite Stock,Stock,17
+Kastov-74u,Assault Rifle,VLK Stockless,Stock,19
+Vaznev-9K,Submachine Gun,OTREZAT Stock,Stock,5
+Minibak,Submachine Gun,Markeev R7 Stock,Stock,9
+Lachmann-762,Battle Rifle,Meer Recoil-56 Factory Stock,Stock,4
+Lachmann-762,Battle Rifle,LM-S Factory G79 Stock,Stock,10
+Lachmann-556,Assault Rifle,RAPP-762 Factory,Stock,3
+Lachmann-556,Assault Rifle,Lachmann S9 Factory,Stock,11
+RAPP H,Light Machine Gun,FT Mobile Stock,Stock,10
+Bryson 800,Shotgun,FTAC Apollo Stock,Stock,3
+Lockwood Mk2,Marksman Rifle,Cut Off Stock Mod,Stock,3
+Lockwood Mk2,Marksman Rifle,Demo VX509 Stock,Stock,19
+Lockwood Mk2,Marksman Rifle,Lockwood Bullseye Stock,Stock,15
+VEL 46,Submachine Gun,Demo RXT Stock,Stock,8
+VEL 46,Submachine Gun,LM Precision Stock,Stock,23
+VEL 46,Submachine Gun,VEL A-568 Collapsed,Stock,10
+RAAL MG,Light Machine Gun,Demo H-40,Stock,5
+PDSW 528,Submachine Gun,CQB Stock,Stock,5
+PDSW 528,Submachine Gun,FSS Heavy Stock Pro,Stock,11
+M4,Assault Rifle,FSS Sharkfin 90,Underbarrel,6
+556 Icarus,Light Machine Gun,VX Pineapple,Underbarrel,14
+M16,Assault Rifle,SPW 40mm,Underbarrel,13
+TAQ-56,Assault Rifle,Demo Imp-44 Grip,Underbarrel,6
+TAQ-56,Assault Rifle,Bruen Tilt Grip,Underbarrel,13
+TAQ-56,Assault Rifle,Hellscream 40mm,Underbarrel,15
+TAQ-V,Battle Rifle,Merc Foregrip,Underbarrel,6
+TAQ-V,Battle Rifle,Bipod V9 Grip,Underbarrel,19
+RPK,Light Machine Gun,RPK Bipod,Underbarrel,14
+Kastov 762,Assault Rifle,Schlager Tango,Underbarrel,7
+Kastov 762,Assault Rifle,KL40-M2,Underbarrel,15
+Kastov 545,Assault Rifle,Corvus Masterkey,Underbarrel,18
+Kastov-74u,Assault Rifle,Edge-47 Grip,Underbarrel,9
+Vaznev-9K,Submachine Gun,Phase-3 Grip,Underbarrel,9
+Lachmann-762,Battle Rifle,FTAC Ripper 56,Underbarrel,6
+Lockwood Mk2,Marksman Rifle,Demo Firm Grip,Underbarrel,9
+Signal 50,Sniper Rifle,XTEN Gravedigger,Underbarrel,9
+SP-R 208,Marksman Rifle,Level Aim Bipod,Underbarrel,8
+MCPR-300,Sniper Rifle,Cornerstone Bipod,Underbarrel,19
+Lockwood 300,Shotgun,Demo Cleanshot 40,Underbarrel,8
+Lachmann Sub,Submachine Gun,Lockgrip Precision-40,Underbarrel,9
+RAPP H,Light Machine Gun,DI-Grip 4.5,Underbarrel,8
+RAPP H,Light Machine Gun,Hound-9G Grip,Underbarrel,13
+RAPP H,Light Machine Gun,B052 Grip,Underbarrel,18
+Bryson 800,Shotgun,Cronen Grooveshot Grip,Underbarrel,7
+X13 Auto,Handgun,Agent Grip,Underbarrel,17
+PDSW 528,Submachine Gun,Bruen Sync Shot Grip,Underbarrel,22
+STB 556,Assault Rifle,XTEN Drop Grip,Underbarrel,8
+EBR-14,Marksman Rifle,OP-X9 Foregrip,Underbarrel,6
+VEL 46,Submachine Gun,Operator Foregrip,Underbarrel,3
+STB 556,Assault Rifle,TL40 Fire Drake,Underbarrel,16
+RAAL MG,Light Machine Gun,RAAL Bipod,Underbarrel,3
+Player,You,Riot Shield,Melee,37
+Player,You,Combat Knife,Melee,17
+Player,You,X12,Handgun,31
+X12,Handgun,X13 Auto,Handgun,10
+Player,You,P890,Handgun,1
+Player,You,.50 GS,Handgun,13
+Player,You,Basilisk,Handgun,39
+Lachmann-762,Battle Rifle,Lachmann-556,Assault Rifle,13
+Player,You,M4,Assault Rifle,1
+556 Icarus,Light Machine Gun,M16,Assault Rifle,13
+Kastov 545,Assault Rifle,Kastov-74u,Assault Rifle,13
+Player,You,TAQ-56,Assault Rifle,19
+Player,You,Kastov 762,Assault Rifle,23
+Kastov 762,Assault Rifle,Kastov 545,Assault Rifle,10
+Player,You,STB 556,Assault Rifle,41
+M4,Assault Rifle,FTAC Recon,Battle Rifle,13
+Player,You,Lachmann-762,Battle Rifle,16
+EBR-14,Marksman Rifle,SO-14,Battle Rifle,12
+TAQ-56,Assault Rifle,TAQ-V,Battle Rifle,11
+Lachmann-556,Assault Rifle,Lachmann Sub,Submachine Gun,12
+FTAC Recon,Battle Rifle,FSS Hurricane,Submachine Gun,16
+Player,You,Fennec 45,Submachine Gun,38
+Player,You,VEL 46,Submachine Gun,1
+STB 556,Assault Rifle,MX9,Submachine Gun,13
+Player,You,PDSW 528,Submachine Gun,5
+Kastov-74u,Assault Rifle,Minibak,Submachine Gun,18
+Kastov-74u,Assault Rifle,Vaznev-9K,Submachine Gun,13
+Player,You,Expedite 12,Shotgun,9
+Player,You,Lockwood 300,Shotgun,36
+Player,You,Bryson 800,Shotgun,1
+Bryson 800,Shotgun,Bryson 890,Shotgun,16
+M4,Assault Rifle,556 Icarus,Light Machine Gun,18
+Lachmann-556,Assault Rifle,RAPP H,Light Machine Gun,16
+Player,You,SAKIN MG38,Light Machine Gun,1
+Kastov 762,Assault Rifle,RPK,Light Machine Gun,16
+STB 556,Assault Rifle,HCR 56,Light Machine Gun,20
+Player,You,RAAL MG,Light Machine Gun,25
+Lachmann-762,Battle Rifle,LM-S,Marksman Rifle,17
+Player,You,Lockwood Mk2,Marksman Rifle,28
+Player,You,EBR-14,Marksman Rifle,1
+Player,You,SP-R 208,Marksman Rifle,7
+SP-R 208,Marksman Rifle,SA-B 50,Marksman Rifle,13
+TAQ-56,Assault Rifle,TAQ-M,Marksman Rifle,20
+Player,You,Signal 50,Sniper Rifle,44
+Player,You,MCPR-300,Sniper Rifle,1
+SA-B 50,Marksman Rifle,LA-B 330,Sniper Rifle,16
+LA-B 330,Sniper Rifle,SP-X 80,Sniper Rifle,17
+Player,You,JOKR,Rocker Launcher,24
+Player,You,PILA,Rocker Launcher,1
+Player,You,RPG-7,Rocker Launcher,32
+Player,You,STRELA,Rocker Launcher-P,14

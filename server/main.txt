@@ -1,0 +1,101 @@
+#include <bits/stdc++.h>
+using namespace ::std;
+
+struct Node
+{
+    string source;
+    string destination;
+    int level;
+};
+
+bool pathFinder(unordered_map<string, vector<pair<string, int>>> &adjList, string startNode, string endNode, int level, unordered_map<string, bool> &vis, vector<pair<string, int>> &path)
+{
+    vis[startNode] = true;
+    path.push_back({startNode, level});
+
+    if (startNode == endNode)
+    {
+        return true;
+    }
+
+    for (auto node : adjList[startNode])
+    {
+        string adjNode = node.first;
+        int level = node.second;
+        if (!vis[adjNode])
+        {
+            if (pathFinder(adjList, adjNode, endNode, level, vis, path))
+            {
+                return true;
+            }
+        }
+    }
+
+    path.pop_back();
+    return false;
+}
+
+void printAdjList(unordered_map<string, vector<pair<string, int>>> &adjList)
+{
+    for (auto key : adjList)
+    {
+        cout << "\n\n\nKEY: " << key.first << "\n";
+        for (auto node : key.second)
+        {
+            cout << "destination: " << node.first << "   ";
+            cout << "weight: " << node.second << "\n";
+        }
+    }
+}
+
+int main()
+{
+    unordered_map<string, vector<pair<string, int>>> adjList;
+
+    ifstream myfile;
+    myfile.open("map.csv", ios::in);
+
+    string line;
+
+    int lineCount = 0;
+    getline(myfile, line); // ignore header line
+
+    Node inv;
+
+    while (getline(myfile, line) && !line.empty())
+    {
+        stringstream mystream(line);
+
+        string temp;
+        getline(mystream, inv.source, ',');
+        getline(mystream, inv.destination, ',');
+        getline(mystream, temp, ',');
+        inv.level = stoi(temp);
+
+        if (!mystream)
+            break; // something went wrong reading the line
+
+        adjList[inv.source].push_back({inv.destination, inv.level});
+
+        lineCount++;
+    }
+
+    int numNodes = adjList.size();
+
+    cout << "num Nodes: " << numNodes << "\n";
+
+    unordered_map<string, bool> vis(numNodes);
+    vector<pair<string, int>> pathList;
+
+    if (pathFinder(adjList, "Player", "Vaznev-9K", 1, vis, pathList))
+    {
+        for (auto it : pathList)
+        {
+            cout << it.second << "  " << it.first << " ";
+        }
+    }
+    else
+    {
+        cout << "no path";
+    }
+}
